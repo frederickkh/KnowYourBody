@@ -7,9 +7,8 @@ Users can explore a visual body map, click on parts to learn facts, and chat wit
 
 
 ## ✨ Features
-- 🧍 2D interactive body map (click to learn by body part)
+- 🧍 2D interactive body map (click to learn a certain section)
 - 💬 AI-powered educational chat assistant
-- 🎯 Personalized responses (based on age/lifestyle)
 - 🧩 Quizzes and health tips for engagement
 - 🔒 Non-diagnostic, privacy-safe design
 
@@ -20,7 +19,7 @@ Users can explore a visual body map, click on parts to learn facts, and chat wit
 |-------|-------------|
 | Frontend | React + TailwindCSS |
 | Backend | FastAPI (Python) |
-| AI Integration | Gemini via API |
+| AI Integration | Claude Sonnet via API |
 | Database | Firebase / Supabase |
 | Hosting | Vercel (frontend), Render (backend) |
 
